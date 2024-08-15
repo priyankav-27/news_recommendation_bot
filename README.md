@@ -52,15 +52,15 @@ cd path/to/your/project
 ```bash
 streamlit run news recommendation.py
 ```
-3.**Open the provided local URL in your web browser to interact with the app.**
+3. **Open the provided local URL in your web browser to interact with the app.**
 
 ## Usage
 - Select Categories: Use the multi-select widget to choose news categories you’re interested in.
 - Get News: Click the "Get News" button to fetch and display news articles and summaries.
 
 ## Acknowledgements
-Streamlit - For the easy-to-use framework for creating web apps.
-NewsAPI - For providing the news data.
+- Streamlit - For the easy-to-use framework for creating web apps.
+- NewsAPI - For providing the news data.
   
 
 
