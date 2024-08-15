@@ -35,11 +35,12 @@ The **News Recommendation Bot** is a Python-based application built using Stream
    pip install -r requirements.txt
 ```
 3. **Create a requirements.txt file with the following contents:**
+
    ```bash
    streamlit
    requests
    ```
-4. **Set Up Your NewsAPI Key:**
+5. **Set Up Your NewsAPI Key:**
 
 - Replace your_newsapi_key in the script with your actual API key obtained from NewsAPI.
   
